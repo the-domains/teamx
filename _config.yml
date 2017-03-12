@@ -1,0 +1,23 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: teamx
+layout_spectrum: 0.40166922262869775
+typography_spectrum: 0.14891188219189644
+color:
+  brandStrength: 0.9672363996505737
+  lightness: 0.0918661872856319
+  saturation: 0.4642225061543286
+  rhythmicContrast: 0.8783337119966745
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+content: []
+github: true
